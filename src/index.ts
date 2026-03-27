@@ -1,3 +1,3 @@
-import { run } from './classic-150/169.js'
+import { run } from './classic-150/70.js'
 
 run()
